@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Askalan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Askalan/Askalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-print "Hello! world"
+Hi,I'm Omar Askalan. I'am website developer, I have been doing this job 2022 as freelancer and I love coding.
+MY FREELANCE SERVICES:
+Web Development.
+Web Design.
+Ecommerce Web Design.
+WordPress Web Design.
